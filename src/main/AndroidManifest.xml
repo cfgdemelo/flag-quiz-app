@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.caiomelo.quiz" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".TelaPrincipal"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Pergunta1"
+            android:label="@string/title_activity_pergunta1" >
+        </activity>
+        <activity
+            android:name=".Pergunta2"
+            android:label="@string/title_activity_pergunta2" >
+        </activity>
+        <activity
+            android:name=".Pergunta3"
+            android:label="@string/title_activity_pergunta3" >
+        </activity>
+        <activity
+            android:name=".Pergunta4"
+            android:label="@string/title_activity_pergunta4" >
+        </activity>
+        <activity
+            android:name=".Pergunta5"
+            android:label="@string/title_activity_pergunta5" >
+        </activity>
+        <activity
+            android:name=".Pergunta6"
+            android:label="@string/title_activity_pegunta6" >
+        </activity>
+        <activity
+            android:name=".Pergunta7"
+            android:label="@string/title_activity_pergunta7" >
+        </activity>
+        <activity
+            android:name=".Pergunta8"
+            android:label="@string/title_activity_pergunta8" >
+        </activity>
+        <activity
+            android:name=".Pergunta9"
+            android:label="@string/title_activity_pergunta9" >
+        </activity>
+        <activity
+            android:name=".Pergunta10"
+            android:label="@string/title_activity_pergunta10" >
+        </activity>
+        <activity
+            android:name=".Ranking"
+            android:label="@string/title_activity_ranking" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pergunta1">Pergunta 1</string>
+    <string name="title_activity_pergunta2">Pergunta2</string>
+    <string name="title_activity_pergunta3">Pergunta 3</string>
+    <string name="title_activity_pergunta4">Pergunta 4</string>
+    <string name="title_activity_pergunta5">Pergunta 5</string>
+    <string name="title_activity_pegunta6">Pegunta 6</string>
+    <string name="title_activity_pergunta7">Pergunta 7</string>
+    <string name="title_activity_pergunta8">Pergunta 8</string>
+    <string name="title_activity_pergunta9">Pergunta 9</string>
+    <string name="title_activity_pergunta10">Pergunta 10</string>
+    <string name="title_activity_ranking">Ranking</string>
+</resources>
